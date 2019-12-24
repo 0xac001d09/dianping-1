@@ -1,2 +1,2 @@
 # dianping
-try build
+try build test
